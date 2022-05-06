@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rocknree - Renata Rocha | Jundiaí, SP - BR
-- 👀 I’m interested in Data Science, Python, Js, Back-end
+- 👀 I’m interested in Data Science, Python, Back-end
 - 🌱 I’m currently learning Python
 - 📫 renatarocha.e@gmail.com
 
