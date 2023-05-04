@@ -1,5 +1,4 @@
-### Hello, World! Eu sou a Renata, estudante de Ciência de Dados, apaixonada por tecnologia e programação!
-📍 Jundiaí, SP - BR
+### Hello, World! Eu sou a Renata, estudante de Ciência de Dados, apaixonada por tecnologia!
 
 ##
 
